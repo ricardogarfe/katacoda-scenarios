@@ -4,7 +4,7 @@ Configure your Sonarqube server
 
 Use Docker image to run Sonarqube and expose ports
 
-Execute on terminal `docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+Execute on terminal `docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube:6.7-alpine
 `{{execute}}
 
 Access to Sonarqube dashboard complete-domain-access
