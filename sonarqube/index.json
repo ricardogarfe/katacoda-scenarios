@@ -19,12 +19,16 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Analyze a project",
+        "title": "Step 2 - Clone Java project",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Browse results",
+        "title": "Step 3 - Analyze a project",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Browse results",
+        "text": "step4.md"
       }
     ],
     "intro": {
