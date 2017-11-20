@@ -18,13 +18,12 @@
     }
   },
   "environment": {
-      "showdashboard": true,
-      "dashboard": "Dashboard",
-      "uilayout": "terminal-iframe",
-      "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    "showdashboard": true,
+    "dashboards": [{"name": "Sonarqube", "port": 9000}],
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-      "imageid": "jenkins",
-      "port": 8080
+    "imageid": "docker"
   }
 }
