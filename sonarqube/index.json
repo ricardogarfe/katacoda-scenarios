@@ -19,16 +19,20 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Clone Java project",
+        "title": "Step 2 - Access to Sonarqube",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Analyze a project",
+        "title": "Step 3 - Clone Java project",
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Browse results",
+        "title": "Step 4 - Analyze a project",
         "text": "step4.md"
+      },
+      {
+        "title": "Step 5 - Browse results",
+        "text": "step5.md"
       }
     ],
     "intro": {

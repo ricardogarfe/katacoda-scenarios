@@ -1,5 +1,14 @@
-Download java 8 project to analyze 
+Access to Sonarqube
 
-# Spring boot project
+Login with admin/admin
 
-Clone project from github: `git clone https://github.com/ricardogarfe/atomist-spring-boot.git`{{execute}}
+1. Create new token
+2. Select Java project
+3. Maven builder
+4. Copy maven generated commnad
+
+## Parameters Description
+
+*sonar:sonar*: maven stage to execute analysis
+*sonar.login*: Authentication Token
+*sonar.host.url*: Sonarqube server url
