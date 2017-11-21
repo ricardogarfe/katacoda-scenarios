@@ -9,6 +9,6 @@ Login with admin/admin
 
 ## Parameters Description
 
-*sonar:sonar*: maven stage to execute analysis
-*sonar.login*: Authentication Token
-*sonar.host.url*: Sonarqube server url
+* *sonar:sonar*: maven stage to execute analysis
+* *sonar.login*: Authentication Token
+* *sonar.host.url*: Sonarqube server url
