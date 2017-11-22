@@ -12,11 +12,11 @@ Update packages list
 
 Install java8
 
-`apt install openjdk-8-jdk-headless`{{execute}}
+`apt install --yes --force-yes openjdk-8-jdk-headless`{{execute}}
 
 Install Maven
 
-`apt install maven`{{execute}}
+`apt install --yes --force-yes maven`{{execute}}
 
 ```
 This configuration is not recommended for production environments
