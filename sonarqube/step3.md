@@ -6,9 +6,13 @@ Clone project from github: `git clone https://github.com/ricardogarfe/atomist-sp
 
 # Requirements
 
+Update packages list
+
+`apt-get update`{{execute}}
+
 Install java8
 
-`apt install openjdk-8-jre-headless`{{execute}}
+`apt install openjdk-8-jdk-headless`{{execute}}
 
 Install Maven
 
