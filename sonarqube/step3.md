@@ -1,8 +1,4 @@
-Configure analysis environment and test project
-
-# Spring boot project
-
-Clone project from github: `git clone https://github.com/ricardogarfe/atomist-spring-boot.git`{{execute}}
+Configure analysis environment
 
 # Requirements
 
