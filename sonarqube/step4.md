@@ -1,5 +1,11 @@
 Analyze project
 
+# Compile project
+
+Compile maven project:
+
+`mvn verify`{{execute}}
+
 # Sonarqube
 
 Login with admin/admin
@@ -11,7 +17,7 @@ Login with admin/admin
 
 Go to repository path `cd atomist-spring-boot`{{execute}}
 
-Paste into terminal generated command, *Press enter* and wait for analysis results.
+Paste into terminal Sonarqube generated command, *Press enter* and wait for analysis results.
 
 ## Parameters Description
 
