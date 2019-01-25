@@ -9,8 +9,6 @@ Login with admin/admin
 3. Maven builder
 4. Copy maven generated commnad
 
-Go to repository path `cd atomist-spring-boot`{{execute}}
-
 Paste into terminal Sonarqube generated command, *Press enter* and wait for analysis results.
 
 ## Parameters Description
